@@ -6,7 +6,7 @@ These are a few of my favorite things:
 - Flower (Roses)
 - Flower (Gardenias)
 - Raindrops on roses
-- Whiskers on kittens
+- Whiskers on puppies
 - Bright copper kettles
 - Warm woolen mittens
 - Not editing directly on GitHub
