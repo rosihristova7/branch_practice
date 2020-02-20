@@ -1,5 +1,7 @@
 # Favorite Things
 
+Hello partner!
+
 These are a few of my favorite things:
 
 - Flowers (Daisies)
